@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julho Vanzella</h1>
-<h3 align="center">Front-End Developer from Brazil 🇧🇷</h3>
+<h3 align="center">Full-Stack Developer from Brazil 🇧🇷</h3>
 
 <p align="center">
 Building websites and landing pages.<br>
