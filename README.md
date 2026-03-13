@@ -45,7 +45,7 @@ Currently studying malware analysis and cybersecurity.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<!-- BACKEND / PROGRAMMING -->
+<!-- BACKEND -->
 
 <a href="https://nodejs.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
@@ -76,14 +76,6 @@ Currently studying malware analysis and cybersecurity.
 </a>
 
 <!-- SECURITY -->
-
-<a href="https://www.kali.org/">
-<img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://portswigger.net/burp">
-<img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" height="40"/>
-</a>
 
 <a href="https://www.wireshark.org/">
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
