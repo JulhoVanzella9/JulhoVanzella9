@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 400" width="500" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#1a0a28"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="500" height="400" fill="url(#bg)" rx="16"/>
+
+  <!-- Row 1: C++, C#, Java, Python, PHP -->
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" x="40" y="40" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="40;28;40" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" x="135" y="40" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="40;28;40" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="230" y="40" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="40;28;40" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="325" y="40" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="40;28;40" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" x="420" y="40" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="40;28;40" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+  </image>
+
+  <!-- Row 2: Lua, JS, TS, HTML5, CSS3 -->
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" x="40" y="130" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="130;118;130" dur="3.2s" begin="0.15s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="135" y="130" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="130;118;130" dur="3.2s" begin="0.45s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="230" y="130" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="130;118;130" dur="3.2s" begin="0.75s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="325" y="130" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="130;118;130" dur="3.2s" begin="1.05s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="420" y="130" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="130;118;130" dur="3.2s" begin="1.35s" repeatCount="indefinite"/>
+  </image>
+
+  <!-- Row 3: React, Next.js, Node.js, Three.js, Supabase -->
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="40" y="220" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="220;208;220" dur="3.4s" begin="0.2s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" x="135" y="220" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="220;208;220" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="230" y="220" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="220;208;220" dur="3.4s" begin="0.8s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" x="325" y="220" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="220;208;220" dur="3.4s" begin="1.1s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" x="420" y="220" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="220;208;220" dur="3.4s" begin="1.4s" repeatCount="indefinite"/>
+  </image>
+
+  <!-- Row 4: MySQL, Figma, Git, GitHub -->
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="90" y="310" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="310;298;310" dur="3.6s" begin="0.3s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" x="185" y="310" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="310;298;310" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="280" y="310" width="50" height="50" filter="url(#glow)">
+    <animate attributeName="y" values="310;298;310" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+  </image>
+  <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" x="375" y="310" width="50" height="50" filter="url(#glow)" style="filter: invert(1)">
+    <animate attributeName="y" values="310;298;310" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+  </image>
+</svg>

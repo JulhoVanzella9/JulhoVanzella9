@@ -20,9 +20,7 @@ Currently studying malware analysis and cybersecurity.<br><br>
 <table width="100%">
   <tr>
     <td width="55%" align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,php,lua,js,ts,html,css,react,nextjs,nodejs,threejs,supabase,mysql,figma,git,github&theme=dark&perline=5" />
-      </a>
+      <img src="./tech-stack.svg" alt="Tech Stack Animation" width="100%"/>
     </td>
     <td width="45%" valign="top">
       <h3>🎯 Current Learning</h3>
