@@ -21,30 +21,30 @@ Currently studying malware analysis and cybersecurity.<br><br>
 
 ---
 
-<!--Tech Stack & Latest Projects-->
-<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</h2>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+<!--Current Focus & Projects-->
+<h2 align="center">🎯 Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2>
 
 <table width="100%">
   <tr>
-    <td width="55%" align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,php,lua,js,ts,html,css,react,nextjs,nodejs,threejs,supabase,mysql,figma,git,github&theme=dark&perline=5" />
-      </a>
-      <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=400&color=C084FC&center=true&vCenter=true&width=380&lines=C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+Java+%E2%80%A2+Python;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+PHP;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Three.js+%E2%80%A2+Supabase+%E2%80%A2+MySQL" alt="Stack Typing" />
-    </td>
-    <td width="45%" valign="top">
-      <h3>🎯 Current Learning</h3>
+    <td width="50%" valign="top">
+      <h3>📚 Learning</h3>
       <ul>
-        <li>Malware analysis & reverse engineering</li>
-        <li>Offensive & defensive cybersecurity</li>
-        <li>Advanced React / Next.js animations</li>
+        <li>🔐 Malware analysis & reverse engineering</li>
+        <li>🛡️ Offensive & defensive cybersecurity</li>
+        <li>⚡ Advanced React / Next.js animations</li>
       </ul>
-      <h3>🚀 Latest Projects</h3>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Projects</h3>
       <ul>
         <li><a href="https://craftbyte-site.vercel.app">CraftByte — Websites & Landing Pages</a></li>
         <li>Malware analysis lab studies (WIP)</li>
-        <li>Premium frontend experiments with Three.js</li>
+        <li>Premium frontend with Three.js</li>
       </ul>
     </td>
   </tr>
@@ -52,13 +52,36 @@ Currently studying malware analysis and cybersecurity.<br><br>
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!--GitHub Trophies-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
+<p align="center">
+  <a href="https://github.com/JulhoVanzella9">
+    <img src="https://github-profile-trophy.vercel.app/?username=JulhoVanzella9&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-<!--Contribution Snake Animation-->
+---
+
+<!--Contribution Activity Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulhoVanzella9&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
+
+---
+
+<!--Quote of the Day-->
+<h2 align="center">💭 Qᴜᴏᴛᴇ ᴏꜰ ᴛʜᴇ Dᴀʏ</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+</p>
+
+---
+
+<!--Profile Views-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JulhoVanzella9&label=Profile+views&color=a855f7&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <!--Footer-->
 <p align="center">
