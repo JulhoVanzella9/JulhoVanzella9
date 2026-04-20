@@ -1,14 +1,11 @@
-<!--Banner-->
-![CraftByte Banner](./banner.png)
+![CraftByte Banner](./banner.jpg)
 
-<!--Typing Animation-->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=A855F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Building+Websites+%26+Landing+Pages;Studying+Malware+Analysis+%26+Cybersecurity;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
-<!--About Me with side image-->
 <table>
   <tr>
     <td width="60%" valign="middle">
@@ -23,7 +20,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="./dev-illustration.svg" width="300" alt="Dev Illustration"/>
+      <img src="./dev-illustration.gif" width="300" alt="Dev Illustration Animada"/>
     </td>
   </tr>
 </table>
@@ -38,7 +35,6 @@
 
 ---
 
-<!--Current Focus (3 centered boxes)-->
 <h2 align="center">🎯 Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2>
 
 <div align="center">
@@ -76,7 +72,6 @@
 
 ---
 
-<!--Contribution Activity Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulhoVanzella9&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
@@ -84,13 +79,11 @@
 
 ---
 
-<!--Quote of the Day-->
 <h2 align="center">💭 Qᴜᴏᴛᴇ ᴏꜰ ᴛʜᴇ Dᴀʏ</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
 
-<!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
 </p>
