@@ -1,98 +1,34 @@
-<h1 align="center">Hi 👋, I'm Julho Vanzella</h1>
-<h3 align="center">Full-Stack Developer from Brazil 🇧🇷</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Julho%20Vanzella&fontSize=70&animation=fadeIn" width="100%" />
+</div>
 
-<p align="center">
-Building websites and landing pages.<br>
-Currently studying malware analysis and cybersecurity.
-</p>
+<div align="right">
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<p align="center">
-📧 Contact: julhoeduardo7@gmail.com <br>
-👨‍💻 Portfolio: craftbyte-site.vercel.app
-</p>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, eu sou o Julho! 
+*Full-Stack Developer | Security Enthusiast | Digital Craftsman*
+<br /> 
 
----
+### 💫 Sobre mim
+Sou um Desenvolvedor Full-Stack do Brasil 🇧🇷 focado em criar soluções digitais robustas, desde Landing Pages de alta conversão até sistemas complexos. Atualmente, mergulhando fundo em análise de malware e segurança cibernética para construir aplicações cada vez mais seguras.
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://instagram.com/julho.dev" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</p>
+- 🌱 Estudando **Análise de Malware** e **Pentest**.
+- 🛠️ Especialista em **Next.js**, **Python** e **Segurança**.
+- 💻 Confira meu [Portfólio](https://craftbyte-site.vercel.app).
+- 📧 Contato: [julhoeduardo7@gmail.com](mailto:julhoeduardo7@gmail.com)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">💻 Tech Stack</h2>
 
-<p align="left">
+<div align="center">
 
-<!-- FRONTEND -->
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <br>
 
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- BACKEND -->
-
-<a href="https://nodejs.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<!-- SECURITY -->
-
-<a href="https://www.wireshark.org/">
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
-</a>
-
-<!-- TOOLS -->
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.figma.com/">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-</p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="
