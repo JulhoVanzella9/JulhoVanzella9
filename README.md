@@ -1,4 +1,4 @@
-![CraftByte Banner](./banner.jpg)
+![CraftByte Banner](./banner.jpeg)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
