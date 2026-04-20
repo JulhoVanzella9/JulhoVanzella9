@@ -28,7 +28,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Dev Animation"/>
+      <img src="media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFoZDA4bnlicjczMWxqZDkyOTB1c2tuZ3Jkc3AyY2Z5YTBxeTc2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="220" alt="Dev Animation"/>
     </td>
   </tr>
 </table>
