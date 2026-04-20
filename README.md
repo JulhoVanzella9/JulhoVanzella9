@@ -28,7 +28,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" width="180" alt="Dev Animation"/>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Dev Animation"/>
     </td>
   </tr>
 </table>
