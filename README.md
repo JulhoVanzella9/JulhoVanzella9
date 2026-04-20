@@ -8,7 +8,7 @@ Currently studying malware analysis and cybersecurity.
 
 <p align="center">
 📧 Contact: julhoeduardo7@gmail.com <br>
-👨‍💻 Portfolio: (https://craftbyte-site.vercel.app)
+👨‍💻 Portfolio: craftbyte-site.vercel.app
 </p>
 
 ---
