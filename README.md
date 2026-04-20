@@ -8,13 +8,25 @@
   </a>
 </div>
 
-# 💫 About Me:
-Hi 👋, I'm Julho Vanzella<br>
-Full-Stack Developer from Brazil 🇧🇷<br>
-Building websites and landing pages.<br>
-Currently studying malware analysis and cybersecurity.<br><br>
-📧 Contact: julhoeduardo7@gmail.com<br>
-👨‍💻 Portfolio: https://craftbyte-site.vercel.app<br><br>
+<!--About Me with side image-->
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h1>💫 About Me</h1>
+      <p>
+        Hi 👋, I'm <b>Julho Vanzella</b><br>
+        Full-Stack Developer from Brazil 🇧🇷<br>
+        Building websites and landing pages.<br>
+        Currently studying malware analysis and cybersecurity.<br><br>
+        📧 <b>Contact:</b> julhoeduardo7@gmail.com<br>
+        👨‍💻 <b>Portfolio:</b> <a href="https://craftbyte-site.vercel.app">craftbyte-site.vercel.app</a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="260" alt="Dev Hacker"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/craftbyte.solucoes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julho-vanzella-486323349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julhoeduardo7@gmail.com)
@@ -26,39 +38,41 @@ Currently studying malware analysis and cybersecurity.<br><br>
 
 ---
 
-<!--Current Focus & Projects-->
+<!--Current Focus (3 centered boxes)-->
 <h2 align="center">🎯 Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2>
 
-<table width="100%">
+<div align="center">
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Learning</h3>
+    <td width="33%" valign="top" align="left">
+      <h3 align="center">📚 Learning</h3>
       <ul>
-        <li>🔐 Malware analysis & reverse engineering</li>
-        <li>🛡️ Offensive & defensive cybersecurity</li>
-        <li>⚡ Advanced React / Next.js animations</li>
+        <li>🔐 Malware analysis</li>
+        <li>🛡️ Cybersecurity (offensive & defensive)</li>
+        <li>⚡ Advanced React / Next.js</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Projects</h3>
+    <td width="33%" valign="top" align="left">
+      <h3 align="center">🚀 Projects</h3>
       <ul>
-        <li><a href="https://craftbyte-site.vercel.app">CraftByte — Websites & Landing Pages</a></li>
-        <li>Malware analysis lab studies (WIP)</li>
-        <li>Premium frontend with Three.js</li>
+        <li><a href="https://craftbyte-site.vercel.app">CraftByte Landing Pages</a></li>
+        <li>Malware lab studies (WIP)</li>
+        <li>Three.js frontend experiments</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" align="left">
+      <h3 align="center">✨ Goals 2026</h3>
+      <ul>
+        <li>🏢 Grow CraftByte agency</li>
+        <li>🎓 Complete cybersec certs</li>
+        <li>🌍 Launch international clients</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
-
-<!--GitHub Trophies-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
-<p align="center">
-  <a href="https://github.com/JulhoVanzella9">
-    <img src="https://github-profile-trophy.vercel.app/?username=JulhoVanzella9&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
-</p>
+</div>
 
 ---
 
@@ -74,13 +88,6 @@ Currently studying malware analysis and cybersecurity.<br><br>
 <h2 align="center">💭 Qᴜᴏᴛᴇ ᴏꜰ ᴛʜᴇ Dᴀʏ</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</p>
-
----
-
-<!--Profile Views-->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JulhoVanzella9&label=Profile+views&color=a855f7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!--Footer-->
