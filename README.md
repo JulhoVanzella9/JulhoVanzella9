@@ -23,7 +23,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Hacker Coding"/>
+      <img src="https://images.unsplash.com/photo-1550439062-609e1531270e?w=500&q=80" width="280" alt="Code Neon" style="border-radius:12px"/>
     </td>
   </tr>
 </table>
