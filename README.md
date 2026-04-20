@@ -23,7 +23,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://images.unsplash.com/photo-1550439062-609e1531270e?w=500&q=80" width="280" alt="Code Neon" style="border-radius:12px"/>
+      <img src="./dev-illustration.svg" width="300" alt="Dev Illustration"/>
     </td>
   </tr>
 </table>
