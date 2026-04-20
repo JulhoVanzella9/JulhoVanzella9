@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=A855F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Creative+Engineer;Building+High-End+Websites+%26+Apps;Cybersecurity+%26+Malware+Analysis;Welcome+to+my+Digital+Lab+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFoZDA4bnlicjczMWxqZDkyOTB1c2tuZ3Jkc3AyY2Z5YTBxeTc2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="220" alt="Dev Animation"/>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Dev Animation"/>
     </td>
   </tr>
 </table>
