@@ -85,7 +85,7 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulhoVanzella9&bg_color=0d1117&color=324760&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulhoVanzella9&bg_color=324760&color=324760&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
