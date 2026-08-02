@@ -83,10 +83,6 @@
 
 ---
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulhoVanzella9&bg_color=101318&color=#F2C3F&line=324760&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
 
 ---
 
