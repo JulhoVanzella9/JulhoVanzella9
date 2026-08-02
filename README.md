@@ -16,7 +16,7 @@
       <h1>💫 About Me</h1>
       <p>
         Hi 👋, I'm <b>Julho Vanzella</b>!<br><br>
-        Sou um <b>Desenvolvedor Full-Stack</b> brasileiro focado em transformar ideias em experiências digitais de alto impacto através da <b>CraftByte</b>. Atualmente, divido meu tempo entre a engenharia de software e o estudo profundo de <b>Malware Analysis</b> e <b>Cybersecurity</b>.
+        Sou um <b>Desenvolvedor Full-Stack</b> brasileiro focado em transformar ideias em experiências digitais de alto impacto através da <b>Lumo Digital</b>. Atualmente, divido meu tempo entre a engenharia de software e o estudo profundo de <b>Malware Analysis</b> e <b>Cybersecurity</b>.
       </p>
       <p>
         📫 <b>Contact:</b> <a href="mailto:julhoeduardo7@gmail.com">julhoeduardo7@gmail.com</a><br>
