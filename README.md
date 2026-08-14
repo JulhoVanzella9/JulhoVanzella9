@@ -1,254 +1,96 @@
-<!--
-  JULHO VANZELLA // GITHUB PROFILE
-  github.com/JulhoVanzella9
--->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=JULHO%20VANZELLA&fontSize=55&fontColor=00F7FF&fontAlignY=38&desc=SYSTEM%20INITIALIZED%20%E2%80%A2%20DEVELOPER%20MODE%20ONLINE&descAlignY=58&descSize=16&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=%3E+Initializing+developer+profile...;%3E+Loading+Web+Development+modules...;%3E+Connecting+AI+systems...;%3E+Building+digital+experiences...;%3E+System+Status%3A+ONLINE+%E2%96%88" alt="Typing Animation"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## `[ 01 ] // USER_IDENTITY`
-
-</div>
-
-<table>
-<tr>
-<td width="62%" valign="middle">
-
-### 👨‍💻 Sobre Mim
-
-```js
-const julho = {
-    name: "Julho Vanzella",
-    username: "@JulhoVanzella9",
-
-    role: [
-        "Software Developer",
-        "Web Developer",
-        "Digital Builder"
-    ],
-
-    interests: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Automation",
-        "Digital Products"
-    ],
-
-    currentMission: "Transform ideas into scalable digital systems",
-
-    status: "ONLINE"
-};
-```
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img
-  src="https://github.com/JulhoVanzella9.png"
-  width="230"
-  alt="Julho Vanzella"
-/>
-
-<br>
-
-<sub><b>JULHO VANZELLA</b> // DEVELOPER</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `[ 02 ] // TECHNOLOGY_MATRIX`
-
-### ⚡ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python&theme=dark" />
-
-<br><br>
-
-### 🧩 Development & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,vercel,netlify,cloudflare&theme=dark" />
-
-<br><br>
-
-### 🗄️ Data & Backend
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&theme=dark" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## `[ 03 ] // TOOLKIT`
-
-<br>
-
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF)
-![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=00F7FF)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## `[ 04 ] // PROJECT_DATABASE`
-
-> Alguns dos sistemas, aplicações e experimentos em desenvolvimento.
-
-</div>
-
-<!--
-TROQUE REPOSITORIO-1, REPOSITORIO-2, REPOSITORIO-3 e REPOSITORIO-4
-PELOS NOMES REAIS DOS SEUS REPOSITÓRIOS.
--->
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ PROJECT // 01
-
-**Web Application**
-
-Sistema web focado em performance, experiência do usuário e arquitetura moderna.
-
-`JavaScript` `React` `Web`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JulhoVanzella9/REPOSITORIO-1)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 PROJECT // 02
-
-**AI Integration**
-
-Experimentos envolvendo inteligência artificial, automações e integração entre sistemas.
-
-`AI` `Automation` `API`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulhoVanzella9/REPOSITORIO-2)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 PROJECT // 03
-
-**Digital Experience**
-
-Interface moderna desenvolvida com foco em conversão, responsividade e velocidade.
-
-`Frontend` `UI/UX` `Performance`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JulhoVanzella9/REPOSITORIO-3)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 PROJECT // 04
-
-**Security Lab**
-
-Laboratório para estudos, experimentação e aprofundamento em desenvolvimento e segurança.
-
-`Security` `Research` `Development`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulhoVanzella9/REPOSITORIO-4)
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-## `[ 05 ] // ACTIVE_MISSIONS`
-
-</div>
-
-```bash
-┌──(julho㉿system)-[~/current-objectives]
-└─$ ./mission-control --status
-
-[✓] Expandir conhecimento em desenvolvimento web
-[✓] Construir interfaces mais rápidas e modernas
-[>] Aprofundar conhecimentos em Inteligência Artificial
-[>] Evoluir conhecimentos em Cybersecurity
-[>] Desenvolver automações e integrações
-[>] Criar produtos digitais escaláveis
-[>] Construir projetos open-source
-[>] Evoluir constantemente como desenvolvedor
-```
-
-<br>
-
----
-
-<div align="center">
-
-## 🐍 CONTRIBUTION SNAKE
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20,24,30&section=footer"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+  <rect width="1000" height="600" rx="18" fill="#282a36"/>
+  <rect width="1000" height="54" rx="18" fill="#21222c"/>
+  <rect y="36" width="1000" height="18" fill="#21222c"/>
+
+  <circle cx="29" cy="27" r="7" fill="#ff5555"/>
+  <circle cx="53" cy="27" r="7" fill="#f1fa8c"/>
+  <circle cx="77" cy="27" r="7" fill="#50fa7b"/>
+
+  <rect x="118" y="54" width="196" height="38" rx="7" fill="#343746"/>
+  <text x="142" y="79" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#f8f8f2">profile.js</text>
+  <rect x="118" y="89" width="196" height="3" fill="#bd93f9"/>
+
+  <text x="25" y="128" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">1</text>
+  <text x="25" y="160" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">2</text>
+  <text x="25" y="192" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">3</text>
+  <text x="25" y="224" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">4</text>
+  <text x="25" y="256" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">5</text>
+  <text x="25" y="288" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">6</text>
+  <text x="25" y="320" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">7</text>
+  <text x="25" y="352" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">8</text>
+  <text x="25" y="384" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">9</text>
+  <text x="17" y="416" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">10</text>
+  <text x="17" y="448" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">11</text>
+  <text x="17" y="480" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">12</text>
+  <text x="17" y="512" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">13</text>
+  <text x="17" y="544" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">14</text>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="18">
+    <text x="72" y="128">
+      <tspan fill="#ff79c6">const</tspan>
+      <tspan fill="#f8f8f2"> </tspan>
+      <tspan fill="#8be9fd">julho</tspan>
+      <tspan fill="#ff79c6"> = </tspan>
+      <tspan fill="#f8f8f2">{</tspan>
+    </text>
+
+    <text x="102" y="160">
+      <tspan fill="#8be9fd">name</tspan><tspan fill="#f8f8f2">: </tspan>
+      <tspan fill="#f1fa8c">"Julho Vanzella"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+
+    <text x="102" y="192">
+      <tspan fill="#8be9fd">username</tspan><tspan fill="#f8f8f2">: </tspan>
+      <tspan fill="#f1fa8c">"@JulhoVanzella9"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+
+    <text x="102" y="224">
+      <tspan fill="#8be9fd">role</tspan><tspan fill="#f8f8f2">: [</tspan>
+    </text>
+
+    <text x="132" y="256">
+      <tspan fill="#f1fa8c">"Software Developer"</tspan><tspan fill="#f8f8f2">, </tspan>
+      <tspan fill="#f1fa8c">"Web Developer"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+
+    <text x="132" y="288">
+      <tspan fill="#f1fa8c">"Digital Builder"</tspan>
+    </text>
+
+    <text x="102" y="320" fill="#f8f8f2">],</text>
+
+    <text x="102" y="352">
+      <tspan fill="#8be9fd">interests</tspan><tspan fill="#f8f8f2">: [</tspan>
+      <tspan fill="#f1fa8c">"Web"</tspan><tspan fill="#f8f8f2">, </tspan>
+      <tspan fill="#f1fa8c">"AI"</tspan><tspan fill="#f8f8f2">, </tspan>
+      <tspan fill="#f1fa8c">"Cybersecurity"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+
+    <text x="132" y="384">
+      <tspan fill="#f1fa8c">"Automation"</tspan><tspan fill="#f8f8f2">, </tspan>
+      <tspan fill="#f1fa8c">"Digital Products"</tspan>
+    </text>
+
+    <text x="102" y="416" fill="#f8f8f2">],</text>
+
+    <text x="102" y="448">
+      <tspan fill="#8be9fd">currentMission</tspan><tspan fill="#f8f8f2">: </tspan>
+      <tspan fill="#f1fa8c">"Build. Learn. Evolve."</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+
+    <text x="102" y="480">
+      <tspan fill="#8be9fd">status</tspan><tspan fill="#f8f8f2">: </tspan>
+      <tspan fill="#50fa7b">"ONLINE"</tspan>
+    </text>
+
+    <text x="72" y="512" fill="#f8f8f2">};</text>
+
+    <text x="72" y="556">
+      <tspan fill="#6272a4">// developer profile loaded successfully</tspan>
+    </text>
+  </g>
+
+  <rect x="985" y="106" width="4" height="450" rx="2" fill="#44475a"/>
+  <rect x="985" y="119" width="4" height="105" rx="2" fill="#6272a4"/>
+</svg>
