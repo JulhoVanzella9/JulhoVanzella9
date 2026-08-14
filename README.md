@@ -1,25 +1,13 @@
 <!--
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║             SYSTEM PROFILE // JULHO VANZELLA                    ║
-║                                                                  ║
-║        GitHub: github.com/JulhoVanzella9                         ║
-║        Interface: AI / JARVIS / Cyberpunk                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+  JULHO VANZELLA // GITHUB PROFILE
+  github.com/JulhoVanzella9
 -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=JULHO%20VANZELLA&fontSize=55&fontColor=00F7FF&fontAlignY=38&desc=SYSTEM%20INITIALIZED%20%E2%80%A2%20DEVELOPER%20MODE%20ONLINE&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=%3E+Initializing+developer+profile...;%3E+Loading+Web+Development+modules...;%3E+Connecting+AI+systems...;%3E+Building+digital+experiences...;%3E+System+Status%3A+ONLINE+%E2%96%88" alt="Typing Animation" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=JulhoVanzella9&label=PROFILE%20SCANS&color=00b8c8&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/JulhoVanzella9?label=FOLLOWERS&style=for-the-badge&color=6e40c9&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=%3E+Initializing+developer+profile...;%3E+Loading+Web+Development+modules...;%3E+Connecting+AI+systems...;%3E+Building+digital+experiences...;%3E+System+Status%3A+ONLINE+%E2%96%88" alt="Typing Animation"/>
 
 </div>
 
@@ -35,7 +23,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%" valign="middle">
 
 ### 👨‍💻 Sobre Mim
 
@@ -66,20 +54,17 @@ const julho = {
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center" valign="middle">
 
-```text
-╭─────────────────────────────╮
-│      SYSTEM INFORMATION     │
-├─────────────────────────────┤
-│ USER     Julho Vanzella     │
-│ CLASS    Developer          │
-│ STATUS   ● ONLINE           │
-│ ACCESS   FULL               │
-│ MODE     BUILD              │
-│ UPTIME   ∞                  │
-╰─────────────────────────────╯
-```
+<img
+  src="https://github.com/JulhoVanzella9.png"
+  width="230"
+  alt="Julho Vanzella"
+/>
+
+<br>
+
+<sub><b>JULHO VANZELLA</b> // DEVELOPER</sub>
 
 </td>
 </tr>
@@ -117,9 +102,7 @@ const julho = {
 
 ## `[ 03 ] // TOOLKIT`
 
-</div>
-
-<div align="center">
+<br>
 
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF)
@@ -134,28 +117,6 @@ const julho = {
 
 <br>
 
-```text
-AI_ASSISTANTS
-├── ChatGPT
-├── Claude
-├── Claude Code
-└── AI-assisted development
-
-DEVELOPMENT
-├── Visual Studio Code
-├── Git
-├── GitHub
-└── NPM
-
-DEPLOYMENT
-├── Vercel
-├── Netlify
-└── Cloudflare
-
-STATUS
-└── ██████████████████████████ 100%
-```
-
 ---
 
 <div align="center">
@@ -167,12 +128,8 @@ STATUS
 </div>
 
 <!--
-TROQUE OS NOMES ABAIXO PELOS REPOSITÓRIOS REAIS:
-
-REPOSITORIO-1
-REPOSITORIO-2
-REPOSITORIO-3
-REPOSITORIO-4
+TROQUE REPOSITORIO-1, REPOSITORIO-2, REPOSITORIO-3 e REPOSITORIO-4
+PELOS NOMES REAIS DOS SEUS REPOSITÓRIOS.
 -->
 
 <table>
@@ -263,144 +220,35 @@ Laboratório para estudos, experimentação e aprofundamento em desenvolvimento 
 [>] Criar produtos digitais escaláveis
 [>] Construir projetos open-source
 [>] Evoluir constantemente como desenvolvedor
-
-SYSTEM STATUS .................................... ONLINE
-LEARNING ENGINE ................................. ACTIVE
-BUILD MODE ...................................... ENABLED
-COFFEE LEVEL .................................... CRITICAL
 ```
 
----
-
-<div align="center">
-
-## `[ 06 ] // GITHUB_ANALYTICS`
-
-<br>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=JulhoVanzella9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&bg_color=0D1117"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulhoVanzella9&layout=compact&langs_count=8&hide_border=true&title_color=00F7FF&text_color=C9D1D9&bg_color=0D1117"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=JulhoVanzella9&theme=transparent&hide_border=true&background=0D1117&stroke=30363D&ring=00F7FF&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=8B949E&dates=8B949E" />
-
-</div>
-
 <br>
 
 ---
 
 <div align="center">
 
-## `[ 07 ] // ACTIVITY_MONITOR`
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JulhoVanzella9&bg_color=0d1117&color=00f7ff&line=8a2be2&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `[ 08 ] // ACHIEVEMENTS`
-
-<br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=JulhoVanzella9&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## `[ 09 ] // CONTRIBUTION_PROTOCOL`
-
-### 🐍 Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
 
 <br>
 
----
-
-<div align="center">
-
-## `[ 10 ] // CONNECTION_GATEWAY`
-
-### Establish Connection
-
-<br>
-
-<a href="https://github.com/JulhoVanzella9">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-<!-- TROQUE PELO SEU LINKEDIN -->
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-
-<!-- TROQUE PELO SEU INSTAGRAM -->
-<a href="https://instagram.com/SEU-INSTAGRAM">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/>
-</a>
-
-<br><br>
-
-```text
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│  > Connection request accepted                       │
-│  > Developer network available                       │
-│  > Collaboration protocol enabled                    │
-│                                                       │
-│  STATUS: READY TO BUILD                               │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-```text
-SYSTEM LOG
-─────────────────────────────────────────────────────────
-USER          Julho Vanzella
-IDENTIFIER    @JulhoVanzella9
-ENVIRONMENT   GitHub
-STATUS        ONLINE
-MISSION       BUILD • LEARN • EVOLVE
-─────────────────────────────────────────────────────────
-```
-
-### `> EOF_`
-
-<sub>
-Designed for the intersection between <b>code</b>, <b>technology</b> and <b>the future</b>.
-</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20,24,30&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20,24,30&section=footer"/>
