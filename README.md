@@ -18,15 +18,14 @@
 <tr>
 <td width="68%" valign="middle">
 
-<img src="./assets/about-dracula.svg" width="100%" alt="Julho Vanzella developer profile in VS Code Dracula style">
+<img src="./assets/about-dracula.svg" width="100%" alt="Julho Vanzella developer profile in VS Code Dracula style" style="display:block;">
 
 </td>
 <td width="32%" align="center" valign="middle">
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFnMzV4d3AwYXlzeG5zNXNrbnBsaWQwanczODNydDcyeWdwa2hkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Developer Animation">
 
-<br><br>
-
+<br>
 <b>JULHO VANZELLA</b><br>
 <sub>FULL-STACK DEVELOPER // CYBERSECURITY</sub>
 
@@ -40,9 +39,9 @@
 
 ## `[ 02 ] // TECHNOLOGY_MATRIX`
 
-### 🧠 Languages
+### 🧠 Languages & Scripting
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,php,py,js,ts&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,php,py,js,ts,bash,powershell&theme=dark" alt="Languages and Scripting" />
 
 <br><br>
 
@@ -52,9 +51,11 @@
 
 <br><br>
 
-### ⚙️ Backend & Data
+### ⚙️ Backend, Data & SQL
 
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql&theme=dark" alt="Backend and Data" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql&theme=dark" alt="Backend, Data and SQL" />
+
+<sub>SQL • MySQL • MariaDB</sub>
 
 </div>
 
