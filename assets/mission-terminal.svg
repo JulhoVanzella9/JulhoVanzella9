@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+  <rect width="1100" height="520" rx="18" fill="#282a36"/>
+  <rect width="1100" height="54" rx="18" fill="#21222c"/>
+  <rect y="36" width="1100" height="18" fill="#21222c"/>
+
+  <circle cx="29" cy="27" r="7" fill="#ff5555"/>
+  <circle cx="53" cy="27" r="7" fill="#f1fa8c"/>
+  <circle cx="77" cy="27" r="7" fill="#50fa7b"/>
+
+  <text x="550" y="33" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#f8f8f2">mission-control — julho@system</text>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="18">
+    <text x="48" y="100">
+      <tspan fill="#50fa7b">┌──(</tspan><tspan fill="#8be9fd">julho㉿system</tspan><tspan fill="#50fa7b">)-[</tspan><tspan fill="#bd93f9">~/current-objectives</tspan><tspan fill="#50fa7b">]</tspan>
+    </text>
+
+    <text x="48" y="132">
+      <tspan fill="#50fa7b">└─$</tspan><tspan fill="#f8f8f2"> ./mission-control </tspan><tspan fill="#ff79c6">--status</tspan>
+    </text>
+
+    <text x="48" y="180">
+      <tspan fill="#50fa7b">[✓]</tspan><tspan fill="#f8f8f2"> Expandir conhecimento em desenvolvimento web</tspan>
+    </text>
+
+    <text x="48" y="214">
+      <tspan fill="#50fa7b">[✓]</tspan><tspan fill="#f8f8f2"> Construir interfaces mais rápidas e modernas</tspan>
+    </text>
+
+    <text x="48" y="248">
+      <tspan fill="#f1fa8c">[&gt;]</tspan><tspan fill="#f8f8f2"> Aprofundar conhecimentos em </tspan><tspan fill="#8be9fd">Inteligência Artificial</tspan>
+    </text>
+
+    <text x="48" y="282">
+      <tspan fill="#f1fa8c">[&gt;]</tspan><tspan fill="#f8f8f2"> Evoluir conhecimentos em </tspan><tspan fill="#ff79c6">Cybersecurity</tspan>
+    </text>
+
+    <text x="48" y="316">
+      <tspan fill="#f1fa8c">[&gt;]</tspan><tspan fill="#f8f8f2"> Desenvolver automações e integrações</tspan>
+    </text>
+
+    <text x="48" y="350">
+      <tspan fill="#f1fa8c">[&gt;]</tspan><tspan fill="#f8f8f2"> Criar produtos digitais escaláveis</tspan>
+    </text>
+
+    <text x="48" y="384">
+      <tspan fill="#f1fa8c">[&gt;]</tspan><tspan fill="#f8f8f2"> Construir projetos </tspan><tspan fill="#bd93f9">open-source</tspan>
+    </text>
+
+    <text x="48" y="418">
+      <tspan fill="#f1fa8c">[&gt;]</tspan><tspan fill="#f8f8f2"> Evoluir constantemente como desenvolvedor</tspan>
+    </text>
+
+    <text x="48" y="468">
+      <tspan fill="#6272a4">STATUS:</tspan><tspan fill="#50fa7b"> ONLINE</tspan>
+      <tspan fill="#6272a4">   MODE:</tspan><tspan fill="#bd93f9"> BUILD</tspan>
+      <tspan fill="#6272a4">   SECURITY_LAB:</tspan><tspan fill="#8be9fd"> ACTIVE</tspan>
+    </text>
+
+    <rect x="752" y="451" width="10" height="21" fill="#f8f8f2">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

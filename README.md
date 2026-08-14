@@ -1,96 +1,146 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
-  <rect width="1000" height="600" rx="18" fill="#282a36"/>
-  <rect width="1000" height="54" rx="18" fill="#21222c"/>
-  <rect y="36" width="1000" height="18" fill="#21222c"/>
+<!-- JULHO VANZELLA // GITHUB PROFILE -->
 
-  <circle cx="29" cy="27" r="7" fill="#ff5555"/>
-  <circle cx="53" cy="27" r="7" fill="#f1fa8c"/>
-  <circle cx="77" cy="27" r="7" fill="#50fa7b"/>
+<p align="center">
+  <img src="./banner.png" alt="Julho Vanzella Banner" width="100%">
+</p>
 
-  <rect x="118" y="54" width="196" height="38" rx="7" fill="#343746"/>
-  <text x="142" y="79" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#f8f8f2">profile.js</text>
-  <rect x="118" y="89" width="196" height="3" fill="#bd93f9"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=650&color=00E5FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%7C+Creative+Engineer;Building+High-End+Websites+%26+Digital+Products;Cybersecurity+%26+Malware+Analysis;AI+%E2%80%A2+Automation+%E2%80%A2+Software+Engineering;Welcome+to+my+Digital+Lab+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
 
-  <text x="25" y="128" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">1</text>
-  <text x="25" y="160" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">2</text>
-  <text x="25" y="192" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">3</text>
-  <text x="25" y="224" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">4</text>
-  <text x="25" y="256" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">5</text>
-  <text x="25" y="288" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">6</text>
-  <text x="25" y="320" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">7</text>
-  <text x="25" y="352" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">8</text>
-  <text x="25" y="384" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">9</text>
-  <text x="17" y="416" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">10</text>
-  <text x="17" y="448" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">11</text>
-  <text x="17" y="480" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">12</text>
-  <text x="17" y="512" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">13</text>
-  <text x="17" y="544" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#6272a4">14</text>
+---
 
-  <g font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-    <text x="72" y="128">
-      <tspan fill="#ff79c6">const</tspan>
-      <tspan fill="#f8f8f2"> </tspan>
-      <tspan fill="#8be9fd">julho</tspan>
-      <tspan fill="#ff79c6"> = </tspan>
-      <tspan fill="#f8f8f2">{</tspan>
-    </text>
+## `[ 01 ] // USER_IDENTITY`
 
-    <text x="102" y="160">
-      <tspan fill="#8be9fd">name</tspan><tspan fill="#f8f8f2">: </tspan>
-      <tspan fill="#f1fa8c">"Julho Vanzella"</tspan><tspan fill="#f8f8f2">,</tspan>
-    </text>
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-    <text x="102" y="192">
-      <tspan fill="#8be9fd">username</tspan><tspan fill="#f8f8f2">: </tspan>
-      <tspan fill="#f1fa8c">"@JulhoVanzella9"</tspan><tspan fill="#f8f8f2">,</tspan>
-    </text>
+<img src="./assets/about-dracula.svg" width="100%" alt="Julho Vanzella developer profile in VS Code Dracula style">
 
-    <text x="102" y="224">
-      <tspan fill="#8be9fd">role</tspan><tspan fill="#f8f8f2">: [</tspan>
-    </text>
+</td>
+<td width="32%" align="center" valign="middle">
 
-    <text x="132" y="256">
-      <tspan fill="#f1fa8c">"Software Developer"</tspan><tspan fill="#f8f8f2">, </tspan>
-      <tspan fill="#f1fa8c">"Web Developer"</tspan><tspan fill="#f8f8f2">,</tspan>
-    </text>
+<img src="https://github.com/JulhoVanzella9.png" width="230" alt="Julho Vanzella">
 
-    <text x="132" y="288">
-      <tspan fill="#f1fa8c">"Digital Builder"</tspan>
-    </text>
+<br><br>
 
-    <text x="102" y="320" fill="#f8f8f2">],</text>
+<b>JULHO VANZELLA</b><br>
+<sub>FULL-STACK DEVELOPER // CYBERSECURITY</sub>
 
-    <text x="102" y="352">
-      <tspan fill="#8be9fd">interests</tspan><tspan fill="#f8f8f2">: [</tspan>
-      <tspan fill="#f1fa8c">"Web"</tspan><tspan fill="#f8f8f2">, </tspan>
-      <tspan fill="#f1fa8c">"AI"</tspan><tspan fill="#f8f8f2">, </tspan>
-      <tspan fill="#f1fa8c">"Cybersecurity"</tspan><tspan fill="#f8f8f2">,</tspan>
-    </text>
+</td>
+</tr>
+</table>
 
-    <text x="132" y="384">
-      <tspan fill="#f1fa8c">"Automation"</tspan><tspan fill="#f8f8f2">, </tspan>
-      <tspan fill="#f1fa8c">"Digital Products"</tspan>
-    </text>
+---
 
-    <text x="102" y="416" fill="#f8f8f2">],</text>
+## `[ 02 ] // TECHNOLOGY_MATRIX`
 
-    <text x="102" y="448">
-      <tspan fill="#8be9fd">currentMission</tspan><tspan fill="#f8f8f2">: </tspan>
-      <tspan fill="#f1fa8c">"Build. Learn. Evolve."</tspan><tspan fill="#f8f8f2">,</tspan>
-    </text>
+### 🧠 Languages
 
-    <text x="102" y="480">
-      <tspan fill="#8be9fd">status</tspan><tspan fill="#f8f8f2">: </tspan>
-      <tspan fill="#50fa7b">"ONLINE"</tspan>
-    </text>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-    <text x="72" y="512" fill="#f8f8f2">};</text>
+### 🚀 Frontend & Design
 
-    <text x="72" y="556">
-      <tspan fill="#6272a4">// developer profile loaded successfully</tspan>
-    </text>
-  </g>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-  <rect x="985" y="106" width="4" height="450" rx="2" fill="#44475a"/>
-  <rect x="985" y="119" width="4" height="105" rx="2" fill="#6272a4"/>
-</svg>
+### ⚙️ Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## `[ 03 ] // TOOLKIT`
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## `[ 04 ] // PROJECT_DATABASE`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚡ Lumo Digital
+
+Soluções web, landing pages, interfaces modernas e produtos digitais focados em performance e conversão.
+
+`Web` `UI/UX` `Digital Products`
+
+</td>
+<td width="33%" valign="top">
+
+### 🧬 Malware Lab
+
+Ambiente de estudo voltado para malware analysis, reverse engineering e fundamentos de segurança ofensiva.
+
+`Cybersecurity` `Reverse Engineering` `Research`
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Interactive Web
+
+Experimentos com experiências digitais interativas, interfaces avançadas e aplicações modernas.
+
+`React` `Next.js` `Three.js`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `[ 05 ] // ACTIVE_MISSIONS`
+
+<p align="center">
+  <img src="./assets/mission-terminal.svg" width="100%" alt="Current objectives terminal in Dracula style">
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:julhoeduardo7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/julho-vanzella-486323349">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn">
+  </a>
+</p>
