@@ -43,29 +43,17 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,php,py,js,ts,bash,powershell&theme=dark" alt="Languages and Scripting" />
 
-<br>
-
-<sub>SQL • Shell Scripting • PowerShell</sub>
-
 <br><br>
 
 ### 🚀 Frontend & Design
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,threejs,figma&theme=dark" alt="Frontend and Design" />
 
-<br>
-
-<sub>React • Next.js • Responsive UI • Interactive Web</sub>
-
 <br><br>
 
 ### ⚙️ Backend, APIs & Data
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,supabase,mysql&theme=dark" alt="Backend APIs and Data" />
-
-<br>
-
-<sub>Node.js • Next.js Server • REST APIs • Webhooks • Supabase • SQL • MySQL</sub>
 
 </div>
 
@@ -80,10 +68,6 @@
 <br>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,npm,vite,vercel,netlify,cloudflare,figma&theme=dark" alt="Toolkit" />
-
-<br><br>
-
-<sub>Linux • Git • GitHub • NPM • Vite • Vercel • Netlify • Cloudflare</sub>
 
 </div>
 
