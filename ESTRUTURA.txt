@@ -1,0 +1,15 @@
+ESTRUTURA DO REPOSITÓRIO
+
+README.md
+banner.png
+assets/
+  about-dracula.svg
+  mission-terminal.svg
+.github/
+  workflows/
+    snake.yml
+
+Após subir tudo:
+GitHub > Actions > Generate Contribution Snake > Run workflow
+
+A branch output será criada automaticamente.

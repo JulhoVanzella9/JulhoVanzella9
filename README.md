@@ -10,7 +10,9 @@
   </a>
 </div>
 
-[ 01 ] // USER_IDENTITY
+---
+
+## `[ 01 ] // USER_IDENTITY`
 
 <table>
 <tr>
@@ -31,11 +33,13 @@
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-[ 02 ] // TECHNOLOGY_MATRIX
+## `[ 02 ] // TECHNOLOGY_MATRIX`
 
-🧠 Languages & Scripting
+### 🧠 Languages & Scripting
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,php,py,js,ts,bash,powershell&theme=dark" alt="Languages and Scripting" />
 
@@ -45,7 +49,7 @@
 
 <br><br>
 
-🚀 Frontend & Design
+### 🚀 Frontend & Design
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,threejs,figma&theme=dark" alt="Frontend and Design" />
 
@@ -55,7 +59,7 @@
 
 <br><br>
 
-⚙️ Backend, APIs & Data
+### ⚙️ Backend, APIs & Data
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,supabase,mysql&theme=dark" alt="Backend APIs and Data" />
 
@@ -67,9 +71,11 @@
 
 <br>
 
+---
+
 <div align="center">
 
-[ 03 ] // TOOLKIT
+## `[ 03 ] // TOOLKIT`
 
 <br>
 
@@ -83,44 +89,60 @@
 
 <br>
 
-[ 04 ] // PROJECT_DATABASE
+---
+
+## `[ 04 ] // PROJECT_DATABASE`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-⚡ Lumo Digital
+### ⚡ Lumo Digital
 
 Soluções web, landing pages, interfaces modernas e produtos digitais focados em performance e conversão.
 
-Web UI/UX Digital Products
+`Web` `UI/UX` `Digital Products`
 
 </td>
 <td width="33%" valign="top">
 
-🧬 Malware Lab
+### 🧬 Malware Lab
 
 Ambiente de estudo voltado para malware analysis, reverse engineering e fundamentos de segurança ofensiva.
 
-Cybersecurity Reverse Engineering Research
+`Cybersecurity` `Reverse Engineering` `Research`
 
 </td>
 <td width="33%" valign="top">
 
-🌐 Interactive Web
+### 🌐 Interactive Web
 
 Experimentos com experiências digitais interativas, interfaces avançadas e aplicações modernas.
 
-React Next.js Three.js
+`React` `Next.js` `Three.js`
 
 </td>
 </tr>
 </table>
 
-[ 05 ] // ACTIVE_MISSIONS
+---
+
+## `[ 05 ] // ACTIVE_MISSIONS`
 
 <p align="center">
   <img src="./assets/mission-terminal.svg" width="100%" alt="Current objectives terminal in Dracula style">
+</p>
+
+---
+
+## `[ 06 ] // CONTRIBUTION_SNAKE`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JulhoVanzella9/JulhoVanzella9/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>
