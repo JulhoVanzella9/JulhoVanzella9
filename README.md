@@ -6,13 +6,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=650&color=#324860&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%7C+Creative+Engineer;Building+High-End+Websites+%26+Digital+Products;Cybersecurity+%26+Malware+Analysis;AI+%E2%80%A2+Automation+%E2%80%A2+Software+Engineering;Welcome+to+my+Digital+Lab+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=650&color=324860&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%7C+Creative+Engineer;Building+High-End+Websites+%26+Digital+Products;Cybersecurity+%26+Malware+Analysis;AI+%E2%80%A2+Automation+%E2%80%A2+Software+Engineering;Welcome+to+my+Digital+Lab+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
----
-
-## `[ 01 ] // USER_IDENTITY`
+[ 01 ] // USER_IDENTITY
 
 <table>
 <tr>
@@ -33,87 +31,93 @@
 </tr>
 </table>
 
----
-
 <div align="center">
 
-## `[ 02 ] // TECHNOLOGY_MATRIX`
+[ 02 ] // TECHNOLOGY_MATRIX
 
-### 🧠 Languages & Scripting
+🧠 Languages & Scripting
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,php,py,js,ts,bash,powershell&theme=dark" alt="Languages and Scripting" />
 
+<br>
+
+<sub>SQL • Shell Scripting • PowerShell</sub>
+
 <br><br>
 
-### 🚀 Frontend & Design
+🚀 Frontend & Design
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,threejs,figma&theme=dark" alt="Frontend and Design" />
 
+<br>
+
+<sub>React • Next.js • Responsive UI • Interactive Web</sub>
+
 <br><br>
 
-### ⚙️ Backend, Data & SQL
+⚙️ Backend, APIs & Data
 
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql&theme=dark" alt="Backend, Data and SQL" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,supabase,mysql&theme=dark" alt="Backend APIs and Data" />
 
-<sub>SQL • MySQL • MariaDB</sub>
+<br>
+
+<sub>Node.js • Next.js Server • REST APIs • Webhooks • Supabase • SQL • MySQL</sub>
 
 </div>
 
 <br>
-
----
 
 <div align="center">
 
-## `[ 03 ] // TOOLKIT`
+[ 03 ] // TOOLKIT
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma&theme=dark" alt="Toolkit" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,npm,vite,vercel,netlify,cloudflare,figma&theme=dark" alt="Toolkit" />
+
+<br><br>
+
+<sub>Linux • Git • GitHub • NPM • Vite • Vercel • Netlify • Cloudflare</sub>
 
 </div>
 
 <br>
 
----
-
-## `[ 04 ] // PROJECT_DATABASE`
+[ 04 ] // PROJECT_DATABASE
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### ⚡ Lumo Digital
+⚡ Lumo Digital
 
 Soluções web, landing pages, interfaces modernas e produtos digitais focados em performance e conversão.
 
-`Web` `UI/UX` `Digital Products`
+Web UI/UX Digital Products
 
 </td>
 <td width="33%" valign="top">
 
-### 🧬 Malware Lab
+🧬 Malware Lab
 
 Ambiente de estudo voltado para malware analysis, reverse engineering e fundamentos de segurança ofensiva.
 
-`Cybersecurity` `Reverse Engineering` `Research`
+Cybersecurity Reverse Engineering Research
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Interactive Web
+🌐 Interactive Web
 
 Experimentos com experiências digitais interativas, interfaces avançadas e aplicações modernas.
 
-`React` `Next.js` `Three.js`
+React Next.js Three.js
 
 </td>
 </tr>
 </table>
 
----
-
-## `[ 05 ] // ACTIVE_MISSIONS`
+[ 05 ] // ACTIVE_MISSIONS
 
 <p align="center">
   <img src="./assets/mission-terminal.svg" width="100%" alt="Current objectives terminal in Dracula style">
